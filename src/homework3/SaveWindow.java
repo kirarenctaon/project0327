@@ -33,9 +33,7 @@ public class SaveWindow extends JFrame implements ActionListener{
 	int count;
 	long fileLength;
 	int percent;
-	
-	
-	
+
 	public SaveWindow() {
 		bar=new JProgressBar();
 		bt_open=new JButton("파일선택");

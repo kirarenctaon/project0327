@@ -40,8 +40,6 @@ public class ThreadTest {
 	//메인쓰레드 말고, 개발자가 원하는 사용자 정의 쓰레드 하나 만들어서 원하는 동시 작업을 수행하자.
 	public static void main(String[] args) {
 		new ThreadTest();
-		
-		
 		/*
 		int[] arr=new int[3];
 		
